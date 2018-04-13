@@ -1,11 +1,11 @@
 body{
-  background-color: #58b1e7;
+background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 #clock{
   color: #fff;
   font-size: 195px;
-  background-color: #000;
+  background: linear-gradient(to left, #355c7d, #6c5b7b, #c06c84); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   padding: 0.5em 0em;
   width: 80%;
   margin: 0px auto;
@@ -17,7 +17,7 @@ body{
   color: #fefefe;
   font-size: 50px;
   text-align: center;
-  background-color: #EB6C52;
+  background: linear-gradient(to left, #355c7d, #6c5b7b, #c06c84); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   padding: 0.5em 0em;
   width: 80%;
   margin: 10% auto 0%;
